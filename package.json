@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/Infokora/test/issues"
   },
-  "homepage": "https://github.com/Infokora/test#readme"
+  "homepage": "https://github.com/Infokora/test#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  }
 }
